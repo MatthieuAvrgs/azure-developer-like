@@ -1,18 +1,18 @@
 {
     "IsEncrypted": false,
     "Values": {
-      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=afklmaz204sa;AccountKey=90U3VYDqLfD6HK+Tuq5jFeKyaarcfmqoTTjygTaobf+TsmXBcSoTP0UWazIQc7hvki3uLGvrpy49+AStQk83ww==;EndpointSuffix=core.windows.net",
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sta10;AccountKey=AHngrvcfFx/tzDhvFKz01aY0BfLnhIyZ65N4QLBHQj4cZFSQAVswXNiZCqX+9DF0atHTymarPkkV+AStQ59rkw==;EndpointSuffix=core.windows.net",
       "FUNCTIONS_WORKER_RUNTIME": "java",
       "MAIN_CLASS":"com.example.functions.FunctionsApplication",
       "AzureWebJobsDashboard": "",
-      "azure.cosmos.uri": "https://af-klm-az-204-cdb.documents.azure.com:443/",
-      "azure.cosmos.key":"Y8EzO2EtACrVOXXCEfQHiwa3NT5skQVUpgrhLS0ByD5mhpvX5XTjyRdcuHMTXvrvLciiCsuFp5tIk46jYH7Rtw==",
-      "azure.cosmos.database":"af-klm-az-204",
+      "azure.cosmos.uri": "https://cosmosdb-10.documents.azure.com:443/",
+      "azure.cosmos.key":"nzFePIaeHzs7hYraubGsrYp5oJXULLFR8R3lj6vodcDfA3sSMbmNDAhXeh3wWH35c3WzNInsWPzBACDbPgYqiA==",
+      "azure.cosmos.database":"cosmosdb-10",
       "azure.cosmos.populateQueryMetrics": "false",
 
-      "azure.storage.account-name": "afklmaz204sa",
-      "azure.storage.account-key":"90U3VYDqLfD6HK+Tuq5jFeKyaarcfmqoTTjygTaobf+TsmXBcSoTP0UWazIQc7hvki3uLGvrpy49+AStQk83ww==",
-      "azure.storage.blob-endpoint":"http://afklmaz204sa.blob.core.windows.net",
+      "azure.storage.account-name": "sta10",
+      "azure.storage.account-key":"AHngrvcfFx/tzDhvFKz01aY0BfLnhIyZ65N4QLBHQj4cZFSQAVswXNiZCqX+9DF0atHTymarPkkV+AStQ59rkw==",
+      "azure.storage.blob-endpoint":"https://sta10.blob.core.windows.net",
 
       "images.raw.container":"raw-images",
       "images.watermarked.container":"atermarked-images"
